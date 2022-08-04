@@ -1,5 +1,12 @@
 # Basic-GPA-Calculator
 
+// this is simply for fun and does not take into account weighted classes, it simply calculates
+// the unweighted gpa of the user 
+
+
+
+
+
 import java.util.Scanner;
 public class MyClass {
     public static void main(String args[]) {
